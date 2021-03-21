@@ -1,0 +1,7 @@
+timestamp,type,amount,from,to,date,transaction,amounts,date_readable,euro,cents
+Oct 1 2019,remove,99.20,198,182,,,,,,
+Oct 2 2019,add,2000.10,188,198,,,,,,
+,,,198,182,03-10-2019,remove,99.40,,,
+,,,188,198,04-10-2019,add,2123.50,,,
+,remove,,198,182,,,,5 Oct 2019,5,7
+,add,,188,198,,,,6 Oct 2019,1060,8
